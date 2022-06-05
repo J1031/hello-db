@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>hello-rocksdb</module>
+        <module>hello-nio</module>
     </modules>
     <packaging>pom</packaging>
 
